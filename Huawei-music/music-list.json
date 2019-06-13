@@ -1,34 +1,19 @@
 [ 
 {
     "id": "0",
-    "title": "水星记",
-    "author": "郭顶",
-    "albumn": "飞行器的执行周期",
-    "lyric": "https://sherltiangang.github.io/music-list/Huawei-music/lyric_水星记.json",
-    "url": "https://sherltiangang.github.io/music-list/Huawei-music/水星记.mp3"
+    "title": "我们都一样",
+    "author": "张杰",
+    "albumn": "明天过后",
+    "lyric": "https://sherltiangang.github.io/music-list/Huawei-music/lyric_我们都一样.json",
+    "url": "http://m10.music.126.net/20190613230257/c79661ff8a51425e422044dffef01f0c/ymusic/f488/04e9/0a99/a1ac608b03ffc7202b53b69455f33038.mp3"
 },
 {
-  "id": "1",
-  "title": "后来的我们",
-  "author": "五月天",
-  "albumn": "后来的我们",
-  "lyric": "https://sherltiangang.github.io/music-list/Huawei-music/lyric_后来的我们.json",
-  "url": "https://sherltiangang.github.io/music-list/Huawei-music/后来的我们.mp3"
-},
-{
-  "id": "2",
-  "title": "假装",
-  "author": "陈雪凝",
-  "albumn": "拾陆",
-  "lyric": "https://sherltiangang.github.io/music-list/Huawei-music/lyric_假装.json",
-  "url": "https://sherltiangang.github.io/music-list/Huawei-music/假装.mp3"
-},
-{
-  "id": "3",
-  "title": "烦恼歌",
-  "author": "张学友",
-  "albumn": "在你身边",
-  "lyric": "https://sherltiangang.github.io/music-list/Huawei-music/lyric_烦恼歌.json",
-  "url": "https://sherltiangang.github.io/music-list/Huawei-music/烦恼歌.mp3"
+    "id": "1",
+    "title": "夜空中最亮的心",
+    "author": "张杰",
+    "albumn": "我是歌手第二季",
+    "lyric": "https://sherltiangang.github.io/music-list/Huawei-music/lyric_夜空中最亮的心.json",
+    "url": "http://m10.music.126.net/20190613010814/e36bfc95afd393d6c79916124a7a5c6b/ymusic/5365/997d/4c57/5f4d99b7955b7a5324c23a66382faa87.mp3"
 }
 ]
+
